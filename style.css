@@ -1,3 +1,8 @@
 .header {
     background-color: #1f2937;
 }
+
+.header h2 {
+    font-size: 24px;
+    color: #f9faf8;
+}
