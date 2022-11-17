@@ -91,6 +91,11 @@ body {
     gap: 20px;
 }
 
+.card img {
+    height: 150px;
+    width: auto;
+}
+
 .quote {
     background-color: #e5e7eb;
 }
