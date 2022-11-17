@@ -86,6 +86,11 @@ body {
     justify-content: center;
 }
 
+.card {
+    width: 300px;
+    gap: 20px;
+}
+
 .quote {
     background-color: #e5e7eb;
 }
