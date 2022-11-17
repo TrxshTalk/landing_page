@@ -68,6 +68,11 @@ body {
     padding: 5px 30px;
 }
 
+.info {
+    text-align: center;
+    margin-bottom: 150px;
+}
+
 .info h2 {
     font-size: 36px;
     font-weight: 1000;
