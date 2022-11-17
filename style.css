@@ -71,6 +71,10 @@ body {
     color: white;
 }
 
+.pop-up p {
+    color: #e5e7eb;
+}
+
 .pop-up button {
     background-color: #3882f6;
     color: #e5e7eb;
