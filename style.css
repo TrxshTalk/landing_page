@@ -37,3 +37,9 @@
 .quote {
     background-color: #e5e7eb;
 }
+
+.quote :nth-child(1) {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
