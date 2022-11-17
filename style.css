@@ -58,6 +58,11 @@ body {
     color: #1f2937;
 }
 
+.quote :nth-child(2) {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
 .pop-up {
     background-color: #3882f6;
 }
