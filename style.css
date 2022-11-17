@@ -96,6 +96,12 @@ body {
     width: auto;
 }
 
+.card p {
+    width: 150px;
+    margin: auto;
+    padding-top: 12px;
+}
+
 .quote {
     background-color: #e5e7eb;
 }
