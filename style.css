@@ -130,6 +130,10 @@ body {
     margin: 100px 150px;
 }
 
+.pop-text {
+    padding: 25px 150px;
+}
+
 .pop-up h2 {
     color: white;
 }
