@@ -67,6 +67,10 @@ body {
     background-color: #3882f6;
 }
 
+.pop-up h2 {
+    color: white;
+}
+
 .pop-up button {
     background-color: #3882f6;
     color: #e5e7eb;
