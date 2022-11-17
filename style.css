@@ -43,6 +43,10 @@ body {
     width: 480px;
 }
 
+.main img {
+    height: 250px;
+}
+
 .main h1 {
     font-size: 48px;
     font-weight: 1000;
