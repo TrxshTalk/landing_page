@@ -28,6 +28,11 @@
     color: #e5e7eb;
 }
 
+.main button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+}
+
 .info h2 {
     font-size: 36px;
     font-weight: bolder;
