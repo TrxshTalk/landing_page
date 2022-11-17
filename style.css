@@ -39,6 +39,10 @@ body {
     gap: 50px;
 }
 
+.main-left {
+    width: 480px;
+}
+
 .main h1 {
     font-size: 48px;
     font-weight: 1000;
