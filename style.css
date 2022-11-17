@@ -123,6 +123,11 @@ body {
 
 .pop-up {
     background-color: #3882f6;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 150px;
 }
 
 .pop-up h2 {
