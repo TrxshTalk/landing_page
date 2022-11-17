@@ -104,6 +104,7 @@ body {
 
 .quote {
     background-color: #e5e7eb;
+    padding: 100px 450px;
 }
 
 .quote :nth-child(1) {
